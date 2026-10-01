@@ -1,0 +1,3 @@
+This project implements and analyzes Energy-Efficient Communication in Wireless Sensor Networks (WSNs) using the NS-3 network simulator.
+Wireless Sensor Networks consist of multiple sensor nodes that communicate wirelessly and forward collected information to a sink/base station. Since sensor nodes generally operate with limited battery power, reducing unnecessary energy consumption is an important challenge.
+This project simulates a wireless sensor network and evaluates its energy consumption and communication performance. The number of sensor nodes can be modified to study how network size affects energy usage and overall performance.
